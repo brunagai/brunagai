@@ -39,9 +39,11 @@
 ## 🧶 OFFLINE MODE
 
 ```text
-🧶 Arte em crochê & criações manuais.
-🎵 Música para focar e relaxar.
-🐶 Tutora orgulhosa do Caldo de Cenoura e do Mousse de Chocolate.
+🗺️ Exploring unique spots around the city
+
+🍿 Binge-watching series, movies, and anime
+
+🐾 Hanging out with my two dogs, Carrot Broth and Chocolate Mousse
 ```
 
 ## 📬 GET IN TOUCH
