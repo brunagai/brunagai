@@ -1,4 +1,4 @@
-<img src="https://api.iconify.design/lucide:zap.svg?color=%2300d4ff" width="22" valign="middle" /> <b>Brunagai.sys</b>
+## <img src="https://api.iconify.design/lucide:zap.svg?color=%2300d4ff" width="28" valign="middle" /> Brunagai.sys
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=40&duration=500&lines=Coded+in+Manaus%2C+running+globally;Between+hackathons%2C+prompts%2C+and+Python;Building+AI+Agents+%26+Automations;AI+Intern+%26+Developer+in+progress" alt="Typing SVG" />
 </p>
