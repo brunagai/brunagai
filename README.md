@@ -8,11 +8,15 @@
 ```text
 > load_bio.sh
 
-🤖 Role: AI Agent Builder & Automation Specialist
-📡 Status: Building Smart Workflows
-🧠 Core Skills: Prompt Engineering & Rapid Problem Solving
-🎯 Current Objective: Designing Scalable AI Agents & Automations
-💜 Drive: Transforming complex logic into autonomous solutions
+<img src="https://api.iconify.design/lucide:bot.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Role:</b> AI Agent Builder & Automation Specialist
+
+<img src="https://api.iconify.design/lucide:activity.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Status:</b> Building Smart Workflows
+
+<img src="https://api.iconify.design/lucide:brain.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Core Skills:</b> Prompt Engineering & Rapid Problem Solving
+
+<img src="https://api.iconify.design/lucide:target.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Current Objective:</b> Designing Scalable AI Agents & Automations
+
+<img src="https://api.iconify.design/lucide:rocket.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Drive:</b> Transforming complex logic into autonomous solutions
 ```
 
 ## <img src="https://api.iconify.design/lucide:boxes.svg?color=%2300d4ff" width="28" valign="middle" /> TECH STACK & TOOLBOX
