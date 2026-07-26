@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=40&duration=500&lines=Coded+in+Manaus%2C+running+globally+%F0%9F%9A%80;Between+hackathons%2C+prompts%2C+and+Python+%F0%9F%90%8D;Building+AI+Agents+%26+Automations+%F0%9F%A4%96;AI+Intern+%26+Developer+in+progress+%E2%9A%A1" alt="Typing SVG" />
 </p>
----
 
 ## 🎛️ CORE PROFILE
 
