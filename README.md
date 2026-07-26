@@ -1,7 +1,10 @@
 # ⚡ Brunagai.sys
 
-`Automations` | `AI Agents` | `Python` | `Prompt Engineering`
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00D4FF&center=true&vCenter=true&width=500&height=40&duration=2000&lines=AI+Agent+Builder+%26+Automation+Specialist;Python+%7C+Prompt+Engineering;Building+Smart+Workflows;Hackathon+Mentor+%26+Community" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ## 🎛️ CORE PROFILE
@@ -19,11 +22,12 @@
 ## 🧰 TECH STACK & TOOLBOX
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
 ## 🔍 LOGS & TRAJECTORY
@@ -48,7 +52,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunagai)
 
 ---
+<div align="center">
 
 ```text
-> connection closed [200 OK]
-> See you around! 🚀
+> conexão fechada [200 OK]
+> Até mais! 🚀
