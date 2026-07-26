@@ -1,7 +1,7 @@
 # ⚡ Brunagai.sys
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brunagai/brunagai/principal/texto-animado.svg" alt="Texto Animado" />
+  <img src="./texto-animado.svg" alt="Texto Animado" />
 </p>
 ---
 
