@@ -15,7 +15,7 @@
 💜 Drive: Transforming complex logic into autonomous solutions
 ```
 
-## 🧰 TECH STACK & TOOLBOX
+## <img src="https://api.iconify.design/lucide:boxes.svg?color=%2300d4ff" width="28" valign="middle" /> TECH STACK & TOOLBOX
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-00D4FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -35,12 +35,12 @@
   <img src="https://img.shields.io/badge/OPENAI-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-## 🔍 LOGS & TRAJECTORY
+## <img src="https://api.iconify.design/lucide:history.svg?color=%2300d4ff" width="28" valign="middle" /> LOGS & TRAJECTORY
 > Artificial Intelligence Intern focused on building autonomous agents and optimizing processes.
 > I actively engage in the tech community and innovation ecosystem, combining participation in competitions with hands-on mentoring in Prompt Engineering to help teams in hackathons build AI-driven solutions.
 > My mission is to translate operational challenges into smart, efficient, and scalable workflows.
 
-## 🎖️ MILESTONES & BADGES
+## <img src="https://api.iconify.design/lucide:award.svg?color=%2300d4ff" width="28" valign="middle" /> MILESTONES & BADGES
 
 <div align="center">
   
@@ -48,7 +48,7 @@
 
 </div>
 
-## 🧶 OFFLINE MODE
+## <img src="https://api.iconify.design/lucide:gamepad-2.svg.svg?color=%2300d4ff" width="28" valign="middle" /> OFFLINE MODE
 
 ```text
 🗺️ Exploring unique spots around the city
@@ -58,7 +58,7 @@
 🐾 Hanging out with my two dogs, Carrot Broth and Chocolate Mousse
 ```
 
-## 📬 GET IN TOUCH
+## <img src="https://api.iconify.design/lucide:send.svg?color=%2300d4ff" width="28" valign="middle" /> GET IN TOUCH
 
 <div align="center">
 
