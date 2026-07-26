@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-00D4FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/POSTGRESQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/FASTAPI-38BDF8?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/FASTAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LINUX-1E40AF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/RENDER-1E3A8A?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/RENDER-38BDF8?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/OPENAI-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
