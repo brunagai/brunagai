@@ -1,9 +1,7 @@
 # ⚡ Brunagai.sys
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=40&duration=500&lines=AI+Agent+Builder+%26+Automation+Specialist;Python+%7C+Prompt+Engineering;Building+Smart+Workflows;Hackathon+Mentor+%26+Community" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=AI%20Agent%20Builder%20%7C%20Automation%20Specialist&fontSize=20&fontColor=ffffff" alt="Header" />
 </p>
 ---
 
