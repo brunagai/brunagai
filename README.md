@@ -48,7 +48,7 @@
 
 </div>
 
-## <img src="https://api.iconify.design/lucide:gamepad-2.svg.svg?color=%2300d4ff" width="28" valign="middle" /> OFFLINE MODE
+## <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%2300d4ff" width="28" valign="middle" /> OFFLINE MODE
 
 ```text
 🗺️ Exploring unique spots around the city
