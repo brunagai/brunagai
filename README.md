@@ -13,7 +13,8 @@
 📡 Status: Building Smart Workflows
 🧠 Core Skills: Prompt Engineering & Rapid Problem Solving
 🎯 Current Objective: Designing Scalable AI Agents & Automations
-💜 Drive: Transforming complex logic into autonomous solutions```
+💜 Drive: Transforming complex logic into autonomous solutions
+```
 
 ## 🧰 TECH STACK & TOOLBOX
 
@@ -26,22 +27,28 @@
 
 
 ## 🔍 LOGS & TRAJECTORY
-```text
-cat profile_info.md
-Estagiária de Inteligência Artificial focada na criação de agentes autônomos e otimização de processos.
-Atuo ativamente na comunidade tech e no ecossistema de inovação, combinando a participação em competições com mentoria prática em Engenharia de Prompts para ajudar equipes em maratonas de hackathons a construírem soluções com IA.
-Minha missão é traduzir desafios operacionais em fluxos inteligentes, eficientes e escaláveis.```
-
+> Estagiária de Inteligência Artificial focada na criação de agentes autônomos e otimização de processos.
+> Atuo ativamente na comunidade tech e no ecossistema de inovação, combinando a participação em competições com mentoria prática em Engenharia de Prompts para ajudar equipes em maratonas de hackathons a construírem soluções com IA.
+> Minha missão é traduzir desafios operacionais em fluxos inteligentes, eficientes e escaláveis.
 
 ## 🎖️ MILESTONES & BADGES
 
-AI ARCHITECT • WORKFLOW AUTOMATOR • HACKATHON MENTOR • PROMPT STRATEGIST
+`AI ARCHITECT` | `WORKFLOW AUTOMATOR` | `HACKATHON MENTOR` | `PROMPT STRATEGIST`
 
 ## 🧶 OFFLINE MODE
 
 ```text
 🧶 Arte em crochê & criações manuais.
 🎵 Música para focar e relaxar.
-🐶 Tutora orgulhosa do Caldo de Cenoura e do Mousse de Chocolate.```
+🐶 Tutora orgulhosa do Caldo de Cenoura e do Mousse de Chocolate.
+```
 
-##📬 GET IN TOUCH
+## 📬 GET IN TOUCH
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunagai)
+
+---
+
+```text
+> connection closed [200 OK]
+> See you around! 🚀
