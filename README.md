@@ -1,4 +1,4 @@
-# ⚡ BrunaNagai.sys
+# ⚡ Brunagai.sys
 
 `Automations` | `AI Agents` | `Python` | `Prompt Engineering`
 
