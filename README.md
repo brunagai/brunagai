@@ -28,9 +28,9 @@
 
 
 ## 🔍 LOGS & TRAJECTORY
-> Estagiária de Inteligência Artificial focada na criação de agentes autônomos e otimização de processos.
-> Atuo ativamente na comunidade tech e no ecossistema de inovação, combinando a participação em competições com mentoria prática em Engenharia de Prompts para ajudar equipes em maratonas de hackathons a construírem soluções com IA.
-> Minha missão é traduzir desafios operacionais em fluxos inteligentes, eficientes e escaláveis.
+> Artificial Intelligence Intern focused on building autonomous agents and optimizing processes.
+> I actively engage in the tech community and innovation ecosystem, combining participation in competitions with hands-on mentoring in Prompt Engineering to help teams in hackathons build AI-driven solutions.
+> My mission is to translate operational challenges into smart, efficient, and scalable workflows.
 
 ## 🎖️ MILESTONES & BADGES
 
