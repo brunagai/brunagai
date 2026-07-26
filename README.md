@@ -1,7 +1,7 @@
 # ⚡ Brunagai.sys
 
 <p align="center">
-  <img src="./Fundo preto para design.gif" alt="Texto Animado" />
+  <img src="./Fundo transparente.gif" alt="Texto Animado" />
 </p>
 ---
 
