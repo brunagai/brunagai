@@ -1,6 +1,8 @@
 # ⚡ Brunagai.sys
 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00D4FF&center=true&vCenter=true&width=500&height=40&multiline=false&deleteDuration=0&lines=AI+Agent+Builder+%26+Automation+Specialist;Python+%7C+Prompt+Engineering;Building+Smart+Workflows;Hackathon+Mentor+%26+Community" alt="Typing SVG" />
+<p align="center">
+  <img src="./Fundo preto para design.gif" alt="Texto Animado" />
+</p>
 ---
 
 ## 🎛️ CORE PROFILE
