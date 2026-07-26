@@ -19,21 +19,21 @@
 ## 🧰 TECH STACK & TOOLBOX
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-0284C7?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/FASTAPI-1E40AF?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PYTHON-00D4FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FASTAPI-007ACC?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GIT-1D4ED8?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/DOCKER-0284C7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GIT-0284C7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_CODE-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/DOCKER-1D4ED8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LINUX-1E3A8A?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/RENDER-0284C7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/OPENAI-007ACC?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LINUX-1E40AF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/RENDER-1E3A8A?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/OPENAI-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
 ## 🔍 LOGS & TRAJECTORY
