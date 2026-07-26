@@ -1,7 +1,7 @@
 # ⚡ Brunagai.sys
 
 <p align="center">
-  <img src="./Fundo transparente.gif" alt="Texto Animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=AI%20Agent%20Builder%20%26%20Automation%20Specialist&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 ---
 
