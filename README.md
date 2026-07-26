@@ -1,7 +1,7 @@
 # ⚡ Brunagai.sys
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=40&duration=500&lines=AI+Agent+Builder+%26+Automation;Building+Smart+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&height=40&duration=500&lines=From+Manaus+to+the+world+%F0%9F%8%8E;Building+AI+agents+%26+automations+%F0%9F%A4%96;ADS+student+%26+Tech+enthusiast+%F0%9F%9A%80;Turning+ideas+into+code+and+AI+%F0%9F%92%A1;Between+hackathons%2C+prompts%2C+and+Python+%F0%9F%90%8D;AI+intern+%26+Developer+in+progress+%E2%9A%A1" alt="Typing SVG" />
 </p>
 ---
 
