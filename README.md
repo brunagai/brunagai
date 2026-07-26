@@ -5,7 +5,6 @@
 
 ## <img src="https://api.iconify.design/lucide:sliders.svg?color=%2300d4ff" width="28" valign="middle" /> CORE PROFILE
 
-```text
 > load_bio.sh
 
 <img src="https://api.iconify.design/lucide:bot.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Role:</b> AI Agent Builder & Automation Specialist
@@ -17,7 +16,7 @@
 <img src="https://api.iconify.design/lucide:target.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Current Objective:</b> Designing Scalable AI Agents & Automations
 
 <img src="https://api.iconify.design/lucide:rocket.svg?color=%2300d4ff" width="18" valign="middle" /> <b>Drive:</b> Transforming complex logic into autonomous solutions
-```
+
 
 ## <img src="https://api.iconify.design/lucide:boxes.svg?color=%2300d4ff" width="28" valign="middle" /> TECH STACK & TOOLBOX
 
