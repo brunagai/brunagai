@@ -66,11 +66,11 @@
 
 ## <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%2300d4ff" width="28" valign="middle" />  Offline Mode
 
-<img src="https://api.iconify.design/lucide:map-pin.svg?color=%2300d4ff" width="18" valign="middle" /> Exploring unique spots around the city
+<img src="https://api.iconify.design/lucide:map-pin.svg?color=%2300d4ff" width="18" valign="middle" />  Exploring unique spots around the city
 
-<img src="https://api.iconify.design/lucide:tv.svg?color=%2300d4ff" width="18" valign="middle" /> Binge-watching series, movies, and anime
+<img src="https://api.iconify.design/lucide:tv.svg?color=%2300d4ff" width="18" valign="middle" />  Binge-watching series, movies, and anime
 
-<img src="https://api.iconify.design/lucide:dog.svg?color=%2300d4ff" width="18" valign="middle" /> Hanging out with my two dogs, Carrot Broth and Chocolate Mousse
+<img src="https://api.iconify.design/lucide:dog.svg?color=%2300d4ff" width="18" valign="middle" />  Hanging out with my two dogs, Carrot Broth and Chocolate Mousse
 
 <br/>
 
