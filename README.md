@@ -25,7 +25,7 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:boxes.svg?color=%2300d4ff" width="28" valign="middle" /> Tech Stack & Toolbox
+## <img src="https://api.iconify.design/lucide:boxes.svg?color=%2300d4ff" width="28" valign="middle" />  Tech Stack & Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-00D4FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
